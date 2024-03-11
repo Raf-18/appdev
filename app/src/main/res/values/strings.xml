@@ -1,12 +1,10 @@
 <resources>
-    <string name="app_name">Register page</string>
-    <string name="Signup1_here">Sign up</string>
-    <string name="fullname_here">Full name</string>
-    <string name="username_here">User name</string>
-    <string name="Email_here">Email</string>
+    <string name="app_name">Login page</string>
+    <string name="signin_here">Sign in</string>
+    <string name="username_here">Username</string>
     <string name="password_here">Password</string>
-    <string name="retypepassword_here">Retype Password</string>
-    <string name="Signup_here">Sign up</string>
-    <string name="Orsign_here">or sign up with</string>
-    <string name="alreadyamember_here">Already a member? Sign in</string>
+    <string name="login_button">Login</string>
+    <string name="orsigninwith_here">or sign in with</string>
+    <string name="notamemberyet_here">Not a member yet? Register</string>
+    <string name="forgotpassword_here">Forgot Password?</string>
 </resources>

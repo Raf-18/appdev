@@ -1,4 +1,4 @@
-package com.example.registerpage;
+package com.example.loginpage;
 
 import androidx.appcompat.app.AppCompatActivity;
 

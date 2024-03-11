@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Register page"
+rootProject.name = "Login page"
 include(":app")
- 
